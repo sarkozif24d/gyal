@@ -1,0 +1,42 @@
+body {
+    background-color: #FFEFD5;
+    color: #8B4513;
+}
+
+.fejlec-kep {
+    border: 1px solid black;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+table {
+    width: 300px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.jobb {
+    width: 120px;
+}
+
+.zold {
+    background-color: lightgreen;
+}
+
+.sarga {
+    background-color: yellow;
+}
+
+.piros {
+    background-color: lightcoral;
+}
+
+.lila {
+    background-color: plum;
+}
